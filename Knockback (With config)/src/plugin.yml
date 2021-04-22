@@ -1,0 +1,8 @@
+name: Knockback
+author: Booked
+main: com.booked.knockback.Knockback
+version: 1.1
+description: Changes knockback with config.
+api-version: 1.8.8
+prefix: KB
+website: https://bit.ly/3n8Sjru
