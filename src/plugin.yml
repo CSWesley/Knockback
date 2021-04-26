@@ -1,0 +1,16 @@
+name: Knockback
+author: Booked
+main: com.booked.knockback.Knockback
+version: 1.4
+description: Changes knockback with config.
+api-version: 1.8.8
+prefix: KB
+website: https://bit.ly/3n8Sjru
+commands:
+  knockback:
+    description: §aShow help page
+    usage: /<command> [arguments]
+    aliases: kb
+    permission: kb.reload
+    permission-message: "§4(!) §aThis plugin was made by §cBo0ked61! §b(Version §d1.4§b) §4(!)\n
+    §aDowload it here: §6https://www.spigotmc.org/resources/configurable-knockback-changer-%E2%9C%85-now-with-reload-command-%E2%9C%85.91588/"
